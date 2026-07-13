@@ -1,0 +1,12 @@
+Test to see as low as you can go before getting micro stutters. If you are confused on which number to start comment your specs.
+
+the Lower the number, the lower delay
+
+Lower End PC = Higher Number
+Higher End PC = Lower Number
+
+
+High End 14 - 16
+Mid End 17 - 19
+Low End 20 - 30
+
